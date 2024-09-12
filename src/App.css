@@ -208,6 +208,10 @@ main {
         width: 100%;
     }
 
+    .movie-info > h4 { 
+        margin: 7px 0;
+    }
+
     .ratings-wrapper {
         flex-direction: column;
         gap: 10px;
